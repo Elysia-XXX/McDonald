@@ -1,0 +1,26 @@
+{
+  "store": "XX餐厅（科兴科学园店）",
+  "combos": [
+    {
+      "name": "A：麦辣鸡腿堡套餐 + 玻璃瓶可乐",
+      "items": [
+        { "code": "MLB_SET", "name": "麦辣鸡腿堡套餐", "price": 38.0 },
+        { "code": "COKE_G", "name": "玻璃瓶可乐", "price": 6.0 }
+      ],
+      "delivery_fee": 9.0,
+      "coupon_used": "套餐立减券",
+      "discount": 3.5
+    },
+    {
+      "name": "B：麦辣鸡腿堡 + 麦辣鸡翅x2 + 零度可乐",
+      "items": [
+        { "code": "MLB", "name": "麦辣鸡腿堡", "price": 23.5 },
+        { "code": "MWS2", "name": "麦辣鸡翅 x2", "price": 12.0 },
+        { "code": "COKE_Z", "name": "零度可乐", "price": 6.0 }
+      ],
+      "delivery_fee": 9.0,
+      "coupon_used": "3元券+立减",
+      "discount": 4.0
+    }
+  ]
+}

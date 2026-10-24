@@ -1,0 +1,7 @@
+.workbuddy/
+*.log
+.env
+.env.local
+__pycache__/
+.DS_Store
+Thumbs.db
